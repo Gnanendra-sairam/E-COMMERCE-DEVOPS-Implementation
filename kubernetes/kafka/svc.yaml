@@ -1,4 +1,3 @@
-
 ---
 # Source: opentelemetry-demo/templates/component.yaml
 apiVersion: v1
@@ -25,3 +24,4 @@ spec:
   selector:
     
     opentelemetry.io/name: opentelemetry-demo-kafka
+
