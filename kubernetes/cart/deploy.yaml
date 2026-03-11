@@ -1,4 +1,3 @@
-
 ---
 # Source: opentelemetry-demo/templates/component.yaml
 apiVersion: apps/v1
@@ -75,3 +74,4 @@ spec:
           image: busybox:latest
           name: wait-for-valkey
       volumes:
+
